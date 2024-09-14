@@ -2,7 +2,7 @@
 """Defines unittests for models/review.py.
 
 Unittest classes:
-    TestReview_instantiatio
+    TestReview_instantiation
     TestReview_save
     TestReview_to_dict
 """
