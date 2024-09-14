@@ -3,7 +3,7 @@
 
 Unittest classes:
     TestState_instantiation
-    TestState_sav
+    TestState_save
     TestState_to_dict
 """
 import os
