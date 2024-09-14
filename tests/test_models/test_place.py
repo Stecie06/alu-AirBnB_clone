@@ -4,7 +4,7 @@
 Unittest classes:
     TestPlace_instantiation
     TestPlace_save
-    TestPlace_to_dict
+    TestPlace_to_dic
 """
 import os
 import models
